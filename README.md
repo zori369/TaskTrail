@@ -1,7 +1,7 @@
-#Task Manager React App
+# Task Manager React App
 This is a simple React application that allows users to manage their tasks. You can add new tasks, filter them based on status, and sort them by various criteria.
 
-##Features
+## Features
 Add Tasks: Add new tasks with titles and descriptions.
 Sort Tasks: Sort tasks by priority, name or due date.
 Filter Tasks: Filter tasks by their priority.
