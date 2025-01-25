@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "ESNext",
+        "jsx": "react-jsx",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": [ "src/**/*" ],
+    "exclude": [ "node_modules" ],
+    "presets": [ "@babel/preset-env", "@babel/preset-react", "@babel/preset-typescript" ]
+    
+}
